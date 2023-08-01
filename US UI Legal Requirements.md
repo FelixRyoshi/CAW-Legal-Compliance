@@ -1,4 +1,4 @@
-#US UI Legal Requirements
+# US UI Legal Requirements
 
 1. Compliance with the Americans with Disabilities Act (ADA) for web accessibility: Ensure that the website's UI is accessible to individuals with disabilities, offering features like screen reader compatibility and keyboard navigation.
 
