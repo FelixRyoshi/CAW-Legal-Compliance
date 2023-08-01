@@ -1,4 +1,4 @@
-# CAW-Legal-Compliance
+# Introduction:
 Working on the legal aspects of front ends to prevent CAW from being censored.
 
 Currently, in CAW, we are working on developing the backend using blockchain technology to ensure everlasting freedom of expression, safeguarding individuals' ability to voice their opinions without any government, media outlets, or corporations having the power to censor them. This innovative approach aims to create a decentralized platform where content remains resistant to control or suppression, thus preserving the essence of free speech for all.
